@@ -15,6 +15,6 @@ Optionally, if you want to run docker-compose through the Makefile, you also nee
 First copy the project. You can do a simple 
 
 ```
-git clone https://github.com/Dainou01/TS-Node-Docker-Template.git && rm -r TS-Node-Docker-Template/.git
+git clone https://github.com/Dainou01/TS-Node-Docker-Template.git && rm -rf TS-Node-Docker-Template/.git
 ```
 
