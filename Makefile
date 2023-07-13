@@ -1,3 +1,7 @@
+first-time:
+	npm i
+	npm run dev
+
 up:
 	docker-compose up -d
 
